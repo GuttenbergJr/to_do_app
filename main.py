@@ -55,4 +55,4 @@ if __name__ == '__main__':
         elif escolha == 0:
             break
         else:
-            print('Por favor, digite um número válido.')
+            print('Por favor, digite um número válido..')
